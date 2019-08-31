@@ -1,0 +1,28 @@
+.flex-container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#text-area {
+    background-color: #f1f1f1;
+    width: 400px;
+    height: 400px;
+    overflow: auto;
+    text-align: justify;
+}
+
+.validator {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#validation {
+    margin-top: 10px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
